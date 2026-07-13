@@ -7,11 +7,12 @@
 🌱 Currently learning Frontend Web Development
 
 💻 Skills:
-- HTML
-- CSS
-- Java
-- C++
-- C
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,js,mysql,python,git,github,vscode,react" />
+</p>
+
+---
 
 🚀 Interested in:
 - Frontend Development
