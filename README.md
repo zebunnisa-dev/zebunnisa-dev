@@ -9,7 +9,7 @@
 💻 Skills:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,js,mysql,python,git,github,vscode,react" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,,git,github,vscode" />
 </p>
 
 ---
