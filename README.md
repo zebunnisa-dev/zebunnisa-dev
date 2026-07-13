@@ -9,9 +9,7 @@
 💻 Skills:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,git,github,vscode" />
-  <br><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=word,powerpoint" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,java,git,github,vscode,microsoftword,microsoftpowerpoint" />
 </p>
 ---
 
